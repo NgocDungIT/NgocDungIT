@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**NgocDungIT/NgocDungIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/babyyy.shark/) 
@@ -27,4 +20,3 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NgocDungIT&icon=0&color=0)](https://visitcount.itsvg.in)
-
